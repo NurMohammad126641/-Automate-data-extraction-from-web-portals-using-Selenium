@@ -1,3 +1,5 @@
+Automate data extraction from web portals using Selenium
+
 This project automates the process of checking SMS balances across multiple web portals. It uses Selenium to extract balance data in real time and then sends automated notifications via email and Skype. 
 This ensures that users are always informed about their current SMS balance, helping them avoid unexpected service disruptions.
 The system runs on a schedule, eliminating the need for manual checks and making SMS balance monitoring seamless and efficient.

@@ -82,6 +82,7 @@ If you face WebDriverException, verify that your ChromeDriver version matches yo
 Skype Login Issues:
 If you encounter SkypeAuthException, double-check your credentials. The Skype API may occasionally prompt for CAPTCHA or security checks that can't be automated.
 
+
 Email Sending Issues:
 Ensure that your sender_email and password are correct.
 For Gmail, enable "Less Secure App Access" or set up an App Password if using 2FA.
